@@ -1,0 +1,1 @@
+This application is a task management system built with FastAPI and MongoDB, offering a straightforward RESTful API for to-do list management. It enables users to perform basic operations like creating, viewing, updating, and deleting tasks with ease. By leveraging MongoDB as its database, the app ensures a scalable and adaptable solution for organizing tasks efficiently.
